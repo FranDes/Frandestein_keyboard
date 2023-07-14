@@ -18,7 +18,7 @@ I started with editing a _.json_ file of the CRKBD on [KLE](http://www.keyboard-
 
 Before importing it on Fusion360, I drew a rough sketch of a section view of the keyboard, to understand what would have been the minimum height it could get, considering Choc switch's height and the safest thickness of a 3D printed bottom plate, which I knew is 2mm. Here's the sketch:
 
-[Sketch image](/images/_01_sketch.jpg)
+![Sketch image](/images/_01_sketch.jpg)
 
 As you can see, I also kept note of the nice!nano's dimensions for the final designing process on Fusion, while on the bottom there's what I call [_the tetralobe_](/images/05_bottom_tetralobe.jpg) scheme: it will accommodate one of the four screws (indicated with a _+_ sign) to fix the bottom plate, a magnet (indicated with an _M_), and a little rubber feet (indicated with a _P_), while the fourth hole will accommodate the other half feet. Everything will be clearer with the video at the end.
 
