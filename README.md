@@ -24,11 +24,11 @@ As you can see, I also kept note of the nice!nano's dimensions for the final des
 
 https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb
 
-Finally, I modeled the keyboard on Fusion. [Here]() you can find the _.stl_ files.
+Finally, I modeled the keyboard on Fusion. [Here](/stl) you can find the _.stl_ files.
 
 ## Parts
 These are the parts I used for this build:
-* 3D printed case
+* [3D printed case](/stl)
 * [Pro Red Choc switches](https://splitkb.com/collections/switches-and-keycaps/products/kailh-low-profile-choc-switches?variant=39459382231117)
 * [Blank MBK Choc Low Profile Keycaps](https://splitkb.com/collections/switches-and-keycaps/products/blank-mbk-choc-low-profile-keycaps)
 * [2x nice!nano's v2](https://splitkb.com/products/nice-nano)
