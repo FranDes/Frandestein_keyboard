@@ -1,7 +1,7 @@
 # Frandestein_keyboard
 _Everything about my (first?) handwired custom split keyboard._
 
-<img src="/images/01_top.jpg" width="500">
+<img src="/images/01_top.jpg">
 
 ## How it started
 Before making this, I was using a [Lily58L](https://www.reddit.com/r/MechanicalKeyboards/comments/n2makg/probably_its_not_the_prettiest_but_im_so_proud_of/) (mainly from Keycapsss.com), then a [CRKBD](https://www.reddit.com/r/MechanicalKeyboards/comments/sgetwt/i_see_a_keyboard_and_i_want_it_painted_black/) (again, mainly from Keycapsss.com). After using both of them (especially the Lily), I felt like I needed a more compact and minimalistic keyboard, so I ended up designing one by myself. I called it Frandestein because that's one of my other nicknames, but also because it was created taking inspiration from other keyboards and built with parts taken from other electronic accessories, so it reminded me of Frankenstein.
