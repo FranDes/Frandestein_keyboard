@@ -43,7 +43,7 @@ These are the parts I used for this build:
 * Various wires taken from an old SCART cable
 
 ## Building process
-Before building the keyboard, I made two little schemes to be sure to wire everything correctly. Given that my previous wireless keyboard was a CRKBD, I followed its wiring so that I didn't need to flash a new firmware.
+Before building the keyboard, I made two little schemes to wire everything correctly. Given that my previous wireless keyboard was a CRKBD, I followed its wiring so that I didn't need to flash a new firmware.
 
 Here are the schemes (_dall'alto_ and _dal basso_ mean _top view_ and _bottom view_):
 
@@ -73,12 +73,25 @@ Here are the schemes (_dall'alto_ and _dal basso_ mean _top view_ and _bottom vi
 
 <img src="/images/10_onoff_switch.jpg" width="500">
 
-### Transparent bottom mod
+## Mods
+
+### Mod #1: Transparent bottom
 The other day I bought a 1mm sheet of plexiglass to make a transparent bottom. Here's the final result:
 
 <img src="/images/11_transparent_bottom.jpg" width="500">
 
 <img src="/images/12_transparent_bottom_right.jpg" width="500">
+
+### Mod #2: Reed switch for automatic on/off
+A couple of weeks ago I learned about reed switches: they close (or open) the circuit when a magnet is near them. Here's how a normally-opened reed switch works:
+
+<img src="https://images.squarespace-cdn.com/content/v1/5845aad637c5817b8945d213/1482454160872-HU1BIYDC17D45YKHJO6G/image-asset.gif">
+
+So I thought it would have been cool to have the keyboard automatically turned off when it's in [carrying mode](https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb). I bought [normally-closed reed switches on AliExpress](aliexpress.com/item/1005001688562983.html) because the circuit should be open only when the keyboard is in carrying mode, while it should be closed the rest of the time. Here's what I got (Choc switch for reference):
+
+LE DUE FOTO DEI REED SWITCH
+
+
 
 ---
 
