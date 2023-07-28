@@ -30,6 +30,8 @@ Finally, I modeled the keyboard on Fusion. [Here](/stl) you can find the _.stl_ 
 
 ## Parts
 These are the parts I used for this build:
+
+  **Original build**
 * [3D printed case](/stl)
 * [Pro Red Choc switches](https://splitkb.com/collections/switches-and-keycaps/products/kailh-low-profile-choc-switches?variant=39459382231117)
 * [Blank MBK Choc Low Profile Keycaps](https://splitkb.com/collections/switches-and-keycaps/products/blank-mbk-choc-low-profile-keycaps)
@@ -42,6 +44,11 @@ These are the parts I used for this build:
 * 8x neodymium magnets (for the [carrying solution](https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb))
 * [THT Diodes](https://splitkb.com/products/tht-diodes)
 * Various wires taken from an old SCART cable
+
+  **Mods**
+* 1mm plexiglass sheet
+* [2x normally-closed reed switches](https://www.aliexpress.com/item/1005001688562983.html)
+
 
 ## Building process
 Before building the keyboard, I made two little schemes to wire everything correctly. Given that my previous wireless keyboard was a CRKBD, I followed its wiring so that I didn't need to flash a new firmware.
