@@ -31,7 +31,7 @@ Finally, I modeled the keyboard on Fusion. [Here](/stl) you can find the _.stl_ 
 ## Parts
 These are the parts I used for this build:
 
-  **Original build**
+**Original build**
 * [3D printed case](/stl)
 * [Pro Red Choc switches](https://splitkb.com/collections/switches-and-keycaps/products/kailh-low-profile-choc-switches?variant=39459382231117)
 * [Blank MBK Choc Low Profile Keycaps](https://splitkb.com/collections/switches-and-keycaps/products/blank-mbk-choc-low-profile-keycaps)
@@ -45,7 +45,7 @@ These are the parts I used for this build:
 * [THT Diodes](https://splitkb.com/products/tht-diodes)
 * Various wires taken from an old SCART cable
 
-  **Mods**
+**Mods**
 * 1mm plexiglass sheet
 * [2x normally-closed reed switches](https://www.aliexpress.com/item/1005001688562983.html)
 
