@@ -37,7 +37,7 @@ These are the parts I used for this build:
 * [MCU sockets](https://www.aliexpress.us/item/32847506950.html)
 * [MSK-12C02 ON/OFF switches](https://www.aliexpress.us/item/4001202080623.html)
 * [2x 401235 Li-ion 3,7V 120mAh batteries](https://www.ebay.it/itm/202170224315)
-* [2x MSK-12C02 on/off switches](www.aliexpress.com/item/4001202080623.html)
+* [2x MSK-12C02 on/off switches](https://www.aliexpress.com/item/4001202080623.html)
 * 2x reset buttons taken from a dead mouse
 * 8x neodymium magnets (for the [carrying solution](https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb))
 * [THT Diodes](https://splitkb.com/products/tht-diodes)
@@ -88,7 +88,7 @@ A couple of weeks ago I learned about reed switches: they close (or open) the ci
 
 <img src="https://images.squarespace-cdn.com/content/v1/5845aad637c5817b8945d213/1482454160872-HU1BIYDC17D45YKHJO6G/image-asset.gif">
 
-So I thought it would have been cool to have the keyboard automatically turned off when it's in [carrying mode](https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb). I bought [normally-closed reed switches on AliExpress](www.aliexpress.com/item/1005001688562983.html) because the circuit should be open only when the keyboard is in carrying mode, while it should be closed the rest of the time. Here's what I received (Choc switch for reference):
+So I thought it would have been cool to have the keyboard automatically turned off when it's in [carrying mode](https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb). I bought [normally-closed reed switches on AliExpress](https://www.aliexpress.com/item/1005001688562983.html) because the circuit should be open only when the keyboard is in carrying mode, while it should be closed the rest of the time. Here's what I received (Choc switch for reference):
 
 <img src="/images/13_reed_switches_choc_comparison.jpg" width="500">
 
