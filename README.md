@@ -94,9 +94,15 @@ So I thought it would have been cool to have the keyboard automatically turned o
 
 <img src="/images/14_reed_switch_zoom.jpg" width="500">
 
-Instead of removing the two MSK-12C02 on/off switches I already installed, I just added the reed switches in series with it. I hope this scheme (made with Paint :) ) will clear what I did:
+Instead of removing the two MSK-12C02 on/off switches I already installed, I just added the reed switches in series with them, so that I'm free to choose if I want to turn off the keyboard with the MSK-12C02 switch or by putting it in carrying mode. I hope this scheme (made with Paint :) ) will clarify what I did:
 
+<img src="/images/17_reed_switch_mod_scheme.jpg" width="500">
 
+This is the final result and a [live test](https://imgur.com/a/N7hXu72).
+
+<img src="/images/15_reed_switch_mod_left.jpg" width="500">
+
+<img src="/images/16_reed_switch_mod_right.jpg" width="500">
 
 ---
 
