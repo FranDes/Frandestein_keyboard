@@ -37,9 +37,8 @@ These are the parts I used for this build:
 * [Blank MBK Choc Low Profile Keycaps](https://splitkb.com/collections/switches-and-keycaps/products/blank-mbk-choc-low-profile-keycaps)
 * [2x nice!nano's v2](https://splitkb.com/products/nice-nano)
 * [MCU sockets](https://www.aliexpress.us/item/32847506950.html)
-* [MSK-12C02 ON/OFF switches](https://www.aliexpress.us/item/4001202080623.html)
+* [2x MSK-12C02 ON/OFF switches](https://www.aliexpress.us/item/4001202080623.html)
 * [2x 401235 Li-ion 3,7V 120mAh batteries](https://www.ebay.it/itm/202170224315)
-* [2x MSK-12C02 on/off switches](https://www.aliexpress.com/item/4001202080623.html)
 * 2x reset buttons taken from a dead mouse
 * 8x neodymium magnets (for the [carrying solution](https://github.com/FranDes/Frandestein_keyboard/assets/16577794/49385803-7e35-41c4-909c-84a84e1e15bb))
 * [THT Diodes](https://splitkb.com/products/tht-diodes)
